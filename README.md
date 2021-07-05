@@ -1,3 +1,5 @@
+检测Android APK运行环境，是否多开、虚拟环境等
+
 # Check_VirtualAPK
 A library for check whether your app run in a virtual project. 
 
